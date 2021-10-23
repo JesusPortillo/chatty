@@ -6,6 +6,7 @@ const config = {
   
   apiKey: "AIzaSyB1t82-ulD1Zv7CXrv57lp2c6xn9NlL27Q",
   authDomain: "chatty-5b51d.firebaseapp.com",
+  databaseURL: "https://chatty-5b51d-default-rtdb.firebaseio.com",
   projectId: "chatty-5b51d",
   storageBucket: "chatty-5b51d.appspot.com",
   messagingSenderId: "632267677613",
